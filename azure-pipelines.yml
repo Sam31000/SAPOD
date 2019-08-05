@@ -20,6 +20,6 @@ steps:
 
 - script : |
     cd SAPOD
-    npm build
+    npm run build
   displayName: 'Compiling the application'
 
