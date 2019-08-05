@@ -18,9 +18,5 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-- script : |
-    cd SAPOD
-    npm install -g @angular/cli
-    npm run build
   displayName: 'Installing angular/cli & Compiling the application'
 
