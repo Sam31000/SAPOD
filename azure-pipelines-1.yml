@@ -19,5 +19,5 @@ steps:
     npm install -g @angular/cli
     cd SAPOD
     npm install
-    bpm run build
+    npm run build
   displayName: 'npm install and run build'
